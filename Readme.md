@@ -4,7 +4,7 @@ copy and paste command in terminal
 
 via ssh
 ```
-git fetch git@github.com:andvirep/public_gitignore.git main:public_gitignore
+git fetch git@github.com:and-is-me/public_gitignore.git main:public_gitignore
 git checkout public_gitignore -- .gitignore
 git commit -m "grabbed .gitignore from public_gitignore repo"
 git push
@@ -12,7 +12,7 @@ git push
 
 via https
 ```
-git fetch https://github.com/andvirep/public_gitignore.git main:public_gitignore
+git fetch https://github.com/and-is-me/public_gitignore.git main:public_gitignore
 git checkout public_gitignore -- .gitignore
 git commit -m "grabbed .gitignore from public_gitignore repo"
 git push
