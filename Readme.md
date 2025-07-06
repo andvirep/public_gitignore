@@ -1,4 +1,4 @@
-# Repo for copypasta .gitignore in projects
+# Repo for copypasta .gitignore to projects
 
 copy and paste command in terminal 
 
